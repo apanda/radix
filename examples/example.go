@@ -4,7 +4,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/fzzbt/radix/redis"
+	"github.com/apanda/radix/redis"
 	"strconv"
 	"time"
 )
